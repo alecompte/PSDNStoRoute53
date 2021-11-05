@@ -23,7 +23,7 @@ GUID = '3a20e8f9-d6da-4869-baf4-310a6eba9082'
 # Author of this module
 Author = 'Antoine Lecompte <plainrare@gmail.com>'
 
-Company = "Natrix Technologies"
+CompanyName = "Natrix Technologies"
 
 # Copyright statement for this module
 Copyright = '(c) Antoine Lecompte. All rights Reserved'
