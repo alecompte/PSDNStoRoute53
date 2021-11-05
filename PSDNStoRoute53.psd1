@@ -12,7 +12,7 @@
 # RootModule = ''
 
 # Version number of this module.
-ModuleVersion = '1.0.2'
+ModuleVersion = '1.0.3'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -21,7 +21,7 @@ ModuleVersion = '1.0.2'
 GUID = '3a20e8f9-d6da-4869-baf4-310a6eba9082'
 
 # Author of this module
-Author = 'Antoine Lecompte <plainrare@gmail.com>'
+Author = 'Antoine Lecompte'
 
 CompanyName = "Natrix Technologies"
 
