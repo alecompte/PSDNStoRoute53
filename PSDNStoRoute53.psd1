@@ -12,7 +12,7 @@
 # RootModule = ''
 
 # Version number of this module.
-ModuleVersion = '1.0.0'
+ModuleVersion = '1.0.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -21,14 +21,15 @@ ModuleVersion = '1.0.0'
 GUID = '3a20e8f9-d6da-4869-baf4-310a6eba9082'
 
 # Author of this module
-Author = 'Antoine Lecompte <alecompte@natrix.info>'
+Author = 'Antoine Lecompte <plainrare@gmail.com>'
 
+Company = "Natrix Technologies"
 
 # Copyright statement for this module
 Copyright = '(c) Antoine Lecompte. All rights Reserved'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'This module provides functionnality to automatically export zones and records for Windows DNS and import them in AWS Route 53'
 
 
 # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
