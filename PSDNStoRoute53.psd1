@@ -12,7 +12,7 @@
 # RootModule = ''
 
 # Version number of this module.
-ModuleVersion = '1.0.1'
+ModuleVersion = '1.0.2'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -26,7 +26,7 @@ Author = 'Antoine Lecompte <plainrare@gmail.com>'
 CompanyName = "Natrix Technologies"
 
 # Copyright statement for this module
-Copyright = '(c) Antoine Lecompte. All rights Reserved'
+Copyright = '(c) Antoine Lecompte | Natrix Technologies. All rights Reserved'
 
 # Description of the functionality provided by this module
 Description = 'This module provides functionnality to automatically export zones and records for Windows DNS and import them in AWS Route 53'
